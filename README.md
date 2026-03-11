@@ -135,7 +135,6 @@ Résumé final des notions abordées :
 - PDU : donnée enrichie par la couche pour son propre protocole ;
 - SAP : point logique d’accès au service.
 
-
 ---------------------------------------------------
 🗺️ Séquence 5 : Retour sur le protocole DHCP
 ---------------------------------------------------
